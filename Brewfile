@@ -40,6 +40,7 @@ cask "vlc"
 cask "vnc-viewer"
 cask "webstorm"
 cask "yakyak"
+cask "zoomus"
 mas "Bandwidth+", id: 490461369
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
