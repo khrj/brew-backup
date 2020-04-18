@@ -43,6 +43,7 @@ cask "webstorm"
 cask "yakyak"
 cask "zoomus"
 mas "Bandwidth+", id: 490461369
+mas "BombSquad", id: 416482767
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
