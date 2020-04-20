@@ -22,6 +22,7 @@ cask "amazon-music"
 cask "android-platform-tools"
 cask "appcleaner"
 cask "balenaetcher"
+cask "bluestacks"
 cask "bootstrap-studio"
 cask "clover-configurator"
 cask "firefox-developer-edition"
@@ -39,7 +40,6 @@ cask "visual-studio-code"
 cask "vlc"
 cask "vnc-viewer"
 cask "webstorm"
-cask "whatsapp"
 cask "yakyak"
 cask "zoomus"
 mas "Bandwidth+", id: 490461369
@@ -59,4 +59,5 @@ mas "Pages", id: 409201541
 mas "Telegram", id: 747648890
 mas "Termius", id: 1176074088
 mas "The Unarchiver", id: 425424353
+mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
