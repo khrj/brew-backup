@@ -36,7 +36,6 @@ cask "sourcetree"
 cask "tor-browser"
 cask "virtualbox"
 cask "virtualbox-extension-pack"
-cask "visual-studio-code"
 cask "vlc"
 cask "vnc-viewer"
 cask "webstorm"
@@ -47,14 +46,8 @@ mas "BombSquad", id: 416482767
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft OneNote", id: 784801555
-mas "Microsoft Outlook", id: 985367838
-mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Remote Desktop", id: 1295203466
-mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
-mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
 mas "Telegram", id: 747648890
 mas "Termius", id: 1176074088
