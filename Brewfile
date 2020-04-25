@@ -5,9 +5,11 @@ tap "homebrew/cask-drivers"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "khushrajrathod/tap"
+brew "apktool"
 brew "openssl@1.1"
 brew "cmake"
 brew "coreutils"
+brew "cowsay"
 brew "ffmpeg"
 brew "gnupg"
 brew "gperf"
@@ -43,12 +45,3 @@ cask "vnc-viewer"
 cask "webstorm"
 cask "yakyak"
 cask "zoomus"
-mas "Bandwidth+", id: 490461369
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Telegram", id: 747648890
-mas "The Unarchiver", id: 425424353
-mas "WhatsApp", id: 1147396723
