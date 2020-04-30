@@ -1,4 +1,4 @@
-# brew-backup
+# BrewBackup
 Automated Backup of brew programs, casks and Mac app store apps (using brew bundle dump).
 
 ## Backup
