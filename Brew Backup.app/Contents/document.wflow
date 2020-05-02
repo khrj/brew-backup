@@ -61,7 +61,7 @@
 					<key>COMMAND_STRING</key>
 					<string>export PATH=/usr/local/bin:$PATH
 
-cd ~/Documents/brew-backup 
+cd ~/Documents/BrewBackup 
 brew bundle dump --force
 git pull
 git add .
