@@ -34,7 +34,9 @@ cask "firefox-developer-edition"
 cask "flashforge-flashprint"
 cask "google-chrome"
 cask "grammarly"
+cask "keka"
 cask "mos3"
+cask "rectangle"
 cask "soundflower"
 cask "sourcetree"
 cask "termius"
@@ -53,5 +55,4 @@ mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Telegram", id: 747648890
-mas "The Unarchiver", id: 425424353
 mas "WhatsApp", id: 1147396723
