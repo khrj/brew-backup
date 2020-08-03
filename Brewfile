@@ -7,7 +7,10 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
 brew "apktool"
+brew "node"
+brew "bitwarden-cli"
 brew "openssl@1.1"
+brew "glib"
 brew "cmake"
 brew "coreutils"
 brew "cowsay"
@@ -16,7 +19,6 @@ brew "ffsend"
 brew "git-lfs"
 brew "gnupg"
 brew "gperf"
-brew "node"
 brew "http-server"
 brew "imagemagick"
 brew "jq"
@@ -25,6 +27,7 @@ brew "meson"
 brew "qemu"
 brew "rename"
 brew "shellcheck"
+brew "snapcraft"
 brew "travis"
 brew "tree"
 brew "wget"
@@ -38,6 +41,7 @@ cask "appcleaner"
 cask "atom"
 cask "background-music"
 cask "balenaetcher"
+cask "bitwarden"
 cask "bootstrap-studio"
 cask "cleanmymac"
 cask "firefox-developer-edition"
@@ -45,6 +49,7 @@ cask "flashforge-flashprint"
 cask "gitkraken"
 cask "google-backup-and-sync"
 cask "google-chrome"
+cask "gpg-suite-no-mail"
 cask "grammarly"
 cask "iina"
 cask "iterm2"
@@ -68,9 +73,11 @@ cask "zoomus"
 mas "Bandwidth+", id: 490461369
 mas "Dato", id: 1470584107
 mas "GarageBand", id: 682658836
+mas "Gifski", id: 1351639930
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Shazam", id: 897118787
 mas "Unsplash Wallpapers", id: 1284863847
+mas "Xcode", id: 497799835
