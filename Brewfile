@@ -52,6 +52,7 @@ cask "google-backup-and-sync"
 cask "google-chrome"
 cask "gpg-suite-no-mail"
 cask "grammarly"
+cask "handbrake"
 cask "iina"
 cask "iterm2"
 cask "keka"
@@ -71,3 +72,13 @@ cask "webstorm"
 cask "whatsapp"
 cask "yakyak"
 cask "zoomus"
+mas "Bandwidth+", id: 490461369
+mas "Dato", id: 1470584107
+mas "GarageBand", id: 682658836
+mas "Gifski", id: 1351639930
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Shazam", id: 897118787
+mas "Unsplash Wallpapers", id: 1284863847
