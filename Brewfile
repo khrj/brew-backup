@@ -60,23 +60,15 @@ cask "iina"
 cask "keka"
 cask "maccy"
 cask "mos"
+cask "onyx"
 cask "qbittorrent"
 cask "rectangle"
 cask "soundflower"
 cask "teamviewer"
+cask "teledrive"
 cask "telegram"
 cask "virtualbox"
 cask "virtualbox-extension-pack"
 cask "visual-studio-code"
 cask "whatsapp"
 cask "zoomus"
-mas "Bandwidth+", id: 490461369
-mas "Dato", id: 1470584107
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Simplenote", id: 692867256
-mas "Unsplash Wallpapers", id: 1284863847
-mas "Xcode", id: 497799835
