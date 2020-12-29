@@ -22,7 +22,7 @@ brew "cliclick"
 brew "cmake"
 brew "coreutils"
 brew "cowsay"
-brew "deno"
+brew "deno", link: false
 brew "dmg2img"
 brew "dos2unix"
 brew "pkg-config"
@@ -47,6 +47,7 @@ brew "ninja"
 brew "meson"
 brew "mingw-w64"
 brew "openjdk"
+brew "postgresql"
 brew "qemu"
 brew "qt"
 brew "rename"
@@ -58,8 +59,9 @@ brew "wget"
 brew "wimlib"
 brew "yarn"
 brew "youtube-dl"
+brew "heroku/brew/heroku"
 brew "khanhas/tap/spicetify-cli"
-brew "mongodb/brew/mongodb-community"
+brew "mongodb/brew/mongodb-community", link: false
 brew "mongodb/brew/mongodb-community-shell"
 brew "quackduck/tap/uniclip"
 cask "alacritty"
@@ -109,3 +111,12 @@ cask "virtualbox-extension-pack"
 cask "visual-studio-code"
 cask "zeitgeist"
 cask "zoomus"
+mas "Dato", id: 1470584107
+mas "Gifski", id: 1351639930
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Shazam", id: 897118787
+mas "Simplenote", id: 692867256
+mas "Unsplash Wallpapers", id: 1284863847
